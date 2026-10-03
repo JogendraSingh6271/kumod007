@@ -1,10 +1,10 @@
 
   <tr>
     <td align="left" width="30%">
-      <strong>Hi, I’m Kumod 👋</strong>
+      <strong>Hi, I’m Jogendra Singh 👋</strong>
     </td>
     <td align="center" width="70%">
-      <h1>Data Science Trainer | Applied Data Analytics</h1>
+      <h1>  Applied Data Analytics</h1>
     </td>
   </tr>
 </table>
